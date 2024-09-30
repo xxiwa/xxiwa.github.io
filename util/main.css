@@ -16,7 +16,7 @@ img.email {
 }
 
 .important {
-    color: #126fd4
+    color: #ff0000
 }
 
 #name {
@@ -31,7 +31,7 @@ img.email {
     font-family: "IBM Plex Sans", sans-serif, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    background-color: #00125C;
+    background-color: #1A4969;
     color: #DDECEC;
     padding: 10px 30px
 }
@@ -48,11 +48,15 @@ img.email {
 }
 
 .spacer {
+    height: 5px;
+}
+
+.spacer1 {
     height: 20px;
 }
 
 .spacer2 {
-    height: 10px;
+    height: 40px;
 }
 
 .spacer3 {
@@ -60,7 +64,19 @@ img.email {
 }
 
 .spacer4 {
-    height: 900px;
+    height: 40px;
+}
+
+.spacer5 {
+    height: 40px;
+}
+
+.spacer6 {
+    height: 40px;
+}
+
+.spacer7 {
+    height: 300px;
 }
 
 .indent {
@@ -68,8 +84,8 @@ img.email {
 }
 
 .indent strong {
-    font-weight: 700;
-    color: #00ADEB
+    font-weight: 500;
+    color: #ff0000
 }
 
 .indent strong2 {
@@ -77,13 +93,19 @@ img.email {
     color: #DDECEC
 }
 
+.indent strong3 {
+    font-weight: 700;
+    background-color: #00689C;
+    color: #DDECEC
+}
+
 .text-box a {
-    color: #00ADEB
+    color: #0397D9
 }
 
 .text-box a:hover,
 .text-box a:active {
-    color: #00ADEB;
+    color: #5CBADC;
     text-decoration: underline
 }
 
@@ -96,7 +118,7 @@ img.email {
 }
 
 .fa-github {
-    color: #00125C
+    color: #1A4969
 }
 
 .fa-github:active,
@@ -108,7 +130,7 @@ img.email {
     vertical-align: text-top;
     text-align: right;
     padding-right: 10px;
-    color: #00125C;
+    color: #1A4969;
     opacity: 0.6
 }
 
@@ -195,7 +217,7 @@ li>ol {
 }
 
 a {
-    color: #00ADEB;
+    color: #ff0000;
     text-decoration: none
 }
 
@@ -221,7 +243,7 @@ code {
     border: 1px solid #f5f5f8;
     border-radius: 3px;
     color: #DDECEC;
-    background-color: #00125C
+    background-color: #1A4969
 }
 
 pre,
@@ -331,7 +353,7 @@ kbd {
 }
 
 .wrapper.nav {
-    background-color: #00125C
+    background-color: #1A4969
 }
 
 .site-header {
@@ -353,7 +375,7 @@ kbd {
 }
 
 .site-title:after {
-    color: #00ADEB;
+    color: #ff0000;
     position: absolute;
     content: "\002a";
     left: 102%;
@@ -655,7 +677,7 @@ ul.s-bullets2 {
 }
 
 ul.s-bullets2 li {
-    margin-bottom: -10px
+    margin-bottom: 0px
 }
 
 div.note {
