@@ -59,13 +59,22 @@ img.email {
     height: 40px;
 }
 
+.spacer4 {
+    height: 900px;
+}
+
 .indent {
     padding-left: 10px
 }
 
 .indent strong {
-    font-weight: 500;
+    font-weight: 700;
     color: #00ADEB
+}
+
+.indent strong2 {
+    font-weight: 500;
+    color: #DDECEC
 }
 
 .text-box a {
