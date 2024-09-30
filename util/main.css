@@ -269,7 +269,7 @@ code.highlighter-rouge {
 pre {
     padding: 8px 12px;
     white-space: pre;
-    overflow-x: hidden;
+    overflow-x: auto;
     word-break: inherit;
     word-wrap: inherit
 }
