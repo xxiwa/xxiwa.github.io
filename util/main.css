@@ -76,7 +76,7 @@ img.email {
 }
 
 .spacer7 {
-    height: 300px;
+    height: 100px;
 }
 
 .indent {
@@ -217,13 +217,17 @@ li>ol {
 }
 
 a {
-    color: #ff0000;
+    color: #0397D9;
+    font-size: 16px;
     text-decoration: none
 }
 
-a:hover {
-    font-family: "IBM Plex Sans", sans-serif;
-    color: #000
+
+
+a:hover,
+a:active {
+    color: #5CBADC;
+    text-decoration: underline
 }
 
 blockquote {
@@ -243,7 +247,7 @@ code {
     border: 1px solid #f5f5f8;
     border-radius: 3px;
     color: #DDECEC;
-    background-color: #1A4969
+    background-color: #ff0000
 }
 
 pre,
